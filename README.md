@@ -1,6 +1,6 @@
 <img src= "https://raw.githubusercontent.com/Intedai/AHK-Logo-Creator/main/demo%20and%20logo/Proj%20Logo.png" width="872" height="60"/>
 
-A software for downloading a player's skin and copying a player's UUID.
+Software for making an AHK logo with your own text 
 
 ## Demo
 
