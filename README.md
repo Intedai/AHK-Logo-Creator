@@ -8,8 +8,9 @@ A software for downloading a player's skin and copying a player's UUID.
 
 ## Installation
 
-Clone this repository and run GUI.py: 
+Clone this repository and run: 
 
 ```
 pip install Pillow
 ```
+and then open GUI.py
