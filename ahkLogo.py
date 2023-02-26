@@ -58,7 +58,7 @@ def create(text: str) -> Image.Image:
     space_len = 100
     match len(text):
         case 0:
-            error_ahk_text = create("Error: Text must have atleast 1 character")
+            return create("Error: Text must have atleast 1 character")
 
         # 1 character
         case 1:
