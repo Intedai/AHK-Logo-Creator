@@ -9,8 +9,7 @@ LIGHT_COLOR = "#f05545"
 DARK_COLOR = "#7f0000"
 DARK_ACTIVE = "#490000" #When a button is clicked (active)
 
-#The entire software: the GUI and displaying everything from the PlayerProperties
-class Software():
+#The entire software: the GUI
 
     def __init__(self) -> None:
         self.root = tk.Tk()
