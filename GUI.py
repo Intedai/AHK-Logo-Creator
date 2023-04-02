@@ -24,7 +24,7 @@ class Software():
         except Exception as e:
             print(e) #prints to the console
 
-        #sets minimum size to 1000x525
+        #sets minimum size to 800x300
         self.root.minsize(800, 300)
 
         self.user_label = tk.Label(self.root,text="AHK Logo Creator", font=("Calibri",30,"bold"), fg="white" ,bg=DARK_COLOR, width=1000)
