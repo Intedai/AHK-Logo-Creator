@@ -41,7 +41,7 @@ class Software():
         self.copy_bttn.pack(pady=20)        
 
         self.download_bttn = tk.Button(self.root, height=1, width=15,text="DOWNLOAD", font=("Calibri",14), command=lambda:self.download_logo(),fg="white", bg=DARK_COLOR, border=0, activebackground=DARK_ACTIVE, activeforeground='white')
-        self.download_bttn.pack(pady=20)
+        self.download_bttn.pack()
 
 
         tk.mainloop()
