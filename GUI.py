@@ -10,7 +10,7 @@ DARK_COLOR = "#7f0000"
 DARK_ACTIVE = "#490000" #When a button is clicked (active)
 
 #The entire software: the GUI
-
+class Software():
     def __init__(self) -> None:
         self.root = tk.Tk()
 
