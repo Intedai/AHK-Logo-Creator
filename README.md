@@ -22,3 +22,5 @@ Clone this repository and follow these steps:
     ```bash
     python GUI.py
     ```
+## License
+Distributed under the MIT license. See `LICENSE` for more information.
