@@ -1,6 +1,7 @@
+
 <img src= "https://raw.githubusercontent.com/Intedai/AHK-Logo-Creator/main/demo%20and%20logo/Proj%20Logo.png" width="872" height="60"/>
 
-Software for making an AHK logo with your own text 
+<p align="center">Create customized AutoHotKey (AHK) logos with your own text</p>
 
 ## Demo
 
@@ -8,9 +9,16 @@ Software for making an AHK logo with your own text
 
 ## Installation
 
-Clone this repository and run: 
+Clone this repository and follow these steps:
 
-```
-pip install Pillow
-```
-and then open GUI.py
+1. Install the required packages:
+
+    ```bash
+    pip install Pillow
+    ```
+
+2. Run GUI.py:
+
+    ```bash
+    python GUI.py
+    ```
